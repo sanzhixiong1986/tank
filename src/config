@@ -1,0 +1,5 @@
+intGameTankNum=5
+intWidth=800
+intHeight=600
+tankFire=DefaultFire
+Collides=BullteTankCollides
