@@ -1,2 +1,2 @@
 # tank
-Java_Tank
+Java版本的基础的坦克大战，有一些基础的mvc模式，策略模式等
